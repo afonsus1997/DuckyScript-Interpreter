@@ -85,6 +85,7 @@ int main ()
   executeCommand(liness[3]);
   //Deve estar tudo a funcionar :P
   //agora tb :P
+  //e agora o cracken...
   
 
   //createLines(inString);
