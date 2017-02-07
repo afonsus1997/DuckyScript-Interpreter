@@ -84,6 +84,7 @@ int main ()
   executeCommand(liness[2]);
   executeCommand(liness[3]);
   //Deve estar tudo a funcionar :P
+  //agora tb :P
   
 
   //createLines(inString);
